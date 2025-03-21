@@ -1,0 +1,77 @@
+﻿a {
+    text-decoration: none;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem !important;
+    --bs-gutter-y: 0 !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: space-evenly !important;
+    margin-top: 1rem !important;
+}
+
+.col-md-3 {
+    margin-bottom: 22px !important;
+    flex: 0 0 auto !important;
+    width: 33% !important;
+}
+
+.card {
+    min-height: 34rem !important;
+    position: relative !important;
+    display: flex !important;
+    flex-direction: column !important;
+    min-width: 0 !important;
+    word-wrap: break-word !important;
+    background-color: #fff !important;
+    background-clip: border-box !important;
+    border: 1px solid rgba(0, 0, 0, .125) !important;
+    border-radius: .25rem !important;
+}
+
+img {
+    transition: all 0.3s ease-in-out !important;
+}
+
+a:hover img {
+    transform: scale(1.04) !important;
+    transition: all 0.3s ease-in-out !important;
+}
+
+.img-thumbnail {
+    border: none !important;
+    min-height: 300px !important;
+    max-height: 300px !important;
+    object-fit: cover !important;
+    object-position: top !important;
+    padding: .25rem !important;
+    background-color: #fff !important;
+    border-radius: .25rem !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+.card-body {
+    font-family: system-ui !important;
+    color: #424242 !important;
+}
+
+mb-4 {
+    color: rgb(7, 7, 7, 0,13) !important;
+    font-size: 1.25rem !important;
+}
+
+.mb-3 {
+    color: rgb(7, 7, 7, 0,13) !important;
+    font-size: 1.50rem !important;
+}
+
+a:hover .card {
+    box-shadow: 0px 0px 10px 0px #00000038 !important;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+text {
+    margin-bottom: 0rem !important;
+}

@@ -1,0 +1,23 @@
+﻿@foreach (var item in Produtos)
+{
+    <div class="col-md-3">
+        <a href="/ProdutoDetalhes/@item.Id">
+            <div class="card">
+                <img class="img-thumbnail" src="@item.ImagemUrl" alt="404" />
+                <div class="card-body">
+                    <h4 class="card-text mb-4">
+                        @item.Preco.ToString("C")
+                    </h4>
+                    <h5 class="text mb-5">
+                        @item.Nome
+                    </h5>
+                </div>
+            </div>
+        </a>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public IEnumerable<ProdutoDto>? Produtos { get; set; }
+}

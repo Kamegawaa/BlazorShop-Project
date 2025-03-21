@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BlazorShop.Web\\BlazorShop.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorShop.Api\\BlazorShop.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

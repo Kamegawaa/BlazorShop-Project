@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas.kamegawa\\source\\repos\\BlazorShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F29DE3-36CA-4FC9-B057-4164E83AC633}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\lucas.kamegawa\\source\\repos\\blazorshop\\blazorshop.api\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F29DE3-36CA-4FC9-B057-4164E83AC633}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9407B54-E362-48BB-8EF9-7FFEB2EC8AC4}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\lucas.kamegawa\\source\\repos\\blazorshop\\blazorshop.web\\shared\\exibirspinner.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A9407B54-E362-48BB-8EF9-7FFEB2EC8AC4}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\shared\\exibirspinner.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarrinhoCompraController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.kamegawa\\source\\repos\\BlazorShop\\BlazorShop.Api\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Controllers\\CarrinhoCompraController.cs",
+              "ToolTip": "C:\\Users\\lucas.kamegawa\\source\\repos\\BlazorShop\\BlazorShop.Api\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Controllers\\CarrinhoCompraController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:27:07.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExibirSpinner.razor.css",
+              "DocumentMoniker": "C:\\Users\\lucas.kamegawa\\source\\repos\\BlazorShop\\BlazorShop.Web\\Shared\\ExibirSpinner.razor.css",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\Shared\\ExibirSpinner.razor.css",
+              "ToolTip": "C:\\Users\\lucas.kamegawa\\source\\repos\\BlazorShop\\BlazorShop.Web\\Shared\\ExibirSpinner.razor.css",
+              "RelativeToolTip": "BlazorShop.Web\\Shared\\ExibirSpinner.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-18T17:11:08.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

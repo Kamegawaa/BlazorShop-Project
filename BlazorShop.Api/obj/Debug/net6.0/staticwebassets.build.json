@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UP1eg+B6BkJBd49jLlsDocyKU1FuwNOY6AoQQk5ThDY=",
+  "Source": "BlazorShop.Api",
+  "BasePath": "_content/BlazorShop.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
